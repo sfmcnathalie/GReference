@@ -1,0 +1,2 @@
+Character count validation
+=LEN(G5)<=200
